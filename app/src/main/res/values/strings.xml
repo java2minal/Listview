@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">listview</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="title_message">Select Modules</string>
+
+
+    <string name="DatabaseSystem">Database System</string>
+    <string name="JAVA2">Java 2</string>
+    <string name="ComputerArchitecture">Computer Architecture</string>
+    <string name="DataCommunication">Data Communication</string>
+    <string name="HumanComputerInteraction">Human Computer Interaction</string>
+    <string name="InteractiveMultimedia">Interactive Multimedia</string>
+    <string name="WebProgrammingwithJAVA">Web Programming with JAVA </string>
+    <string name="DiscreteMathematics">Discrete Mathematics</string>
+    <string name="ECommerce">ECommerce</string>
+    <string name="ManagementInformationSystems">Management Information Systems</string>
+
+
+    <string name="done">Done</string>
+
+
+</resources>
+
